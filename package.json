@@ -1,0 +1,23 @@
+{
+  "name": "CPU-activity-monitor",
+  "version": "1.0.0",
+  "description": "This is an CPU activity monitor developed with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisberg13100/CPU-activity-monitor.git"
+  },
+  "keywords": [],
+  "author": "Dennis van den Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisberg13100/CPU-activity-monitor/issues"
+  },
+  "homepage": "https://github.com/dennisberg13100/CPU-activity-monitor#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
